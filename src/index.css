@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.glass {
+  @apply bg-white/20 dark:bg-gray-800/40 backdrop-blur-xl
+  border border-white/20 shadow-xl;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
