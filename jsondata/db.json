@@ -1,0 +1,62 @@
+{
+  "bookings": [
+    {
+      "name": "VAISHNAVI",
+      "vehicle": "MH271234",
+      "phone": "7709031876",
+      "hours": 5,
+      "paymentMethod": "Card",
+      "location": "Kothrud",
+      "status": "EXPIRED",
+      "time": "2025-12-26T06:33:12.741Z",
+      "amount": 200,
+      "id": 11
+    },
+    {
+      "name": "Tanaya Thakare",
+      "vehicle": "MH12AB12345",
+      "phone": "7385447117",
+      "hours": 8,
+      "paymentMethod": "Card",
+      "location": "Hinjewadi",
+      "status": "EXPIRED",
+      "time": "2025-12-27T04:31:11.780Z",
+      "amount": 320,
+      "id": 12
+    },
+    {
+      "name": "Harshad ",
+      "vehicle": "MH27AB1234",
+      "phone": "7709031876",
+      "hours": "16",
+      "paymentMethod": "UPI",
+      "location": "Hinjewadi",
+      "status": "ACTIVE",
+      "time": "2026-01-01T09:22:19.819Z",
+      "amount": 280,
+      "id": 13
+    }
+  ],
+  "slots": [
+    {
+      "name": "Shivaji Nagar",
+      "slots": 12
+    },
+    {
+      "name": "Hinjewadi",
+      "slots": 45
+    },
+    {
+      "name": "Kothrud",
+      "slots": 5
+    },
+    {
+      "name": "Baner",
+      "slots": 28
+    },
+    {
+      "name": "Viman Nagar",
+      "slots": 18
+    }
+  ]
+}
